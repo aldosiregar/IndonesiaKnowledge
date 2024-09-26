@@ -10,11 +10,11 @@ function fetchAPI(location, content, option){
         }
         return res.json();
     }).then((data) => {
-        content.innerHTML += "<h1>" + data["Bab_" + option].Judul + "</h1>";
+        content.innerHTML += "<h1 class='text-center'>" + data["Bab_" + option].Judul + "</h1>";
         
         for(let materials of data["Bab_" + option].Materi){
             let tempString = "";
-            tempString += "<h4>" + materials.Subbab + "</h4>";
+            tempString += "<h4 class='text-center'>" + materials.Subbab + "</h4>";
             for(let [key, value] of materials.Materi.entries()){
                 if(value instanceof Array){
                     tempString += gridOpeningTemplate;
