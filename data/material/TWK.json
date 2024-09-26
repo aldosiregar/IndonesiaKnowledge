@@ -1,0 +1,298 @@
+{
+    "Bab_1" : {
+        "Judul" : "Nasionalisme",
+        "Materi" : [
+            {
+                "Subbab" : "Pengertian Nasionalisme",
+                "Materi" : [
+                    "Nasionalisme berasal dari 2 kata yaitu Nasional yang berarti kebangsaan atau kenegaraan, dan isme yang berarti paham, yang jika digabungkan menjadi paham suatu bangsa.",
+                    "Dalam konteks kehidupan berbangsa dan bernegara, nasionalisme dapat berarti paham dan usaha yang bertujuan untuk menjaga dan membela suatu bangsa dan negara"
+                ]
+            },
+            {
+                "Subbab" : "Ciri-Ciri Nasionalisme",
+                "Materi" : [
+                    "Nasionalisme memiliki ciri yang membedakannya dengan tindakan lain, hal itu adalah Menempatkan kepentingan negara diatas dari kepentingan pribadi maupun golongan tertentu.",
+                    "Segala hal yang berhubungan dengan keutuhan dan pertahanan sebuah negara, seperti taat hukum, menjaga kerukunan antar warga negara, tujuan politk yang mementingkan rakyat, dan apapun yang menjunjung persatuan dan kesatuan suatu bangsa dapat disebut sebagai ciri dari nasionalisme"
+                ]
+            },
+            {
+                "Subbab" : "Bentuk-bentuk Nasionalisme",
+                "Materi" : [
+                    "Nasionalisme Memiliki beberapa bentuk, seperti : ",
+                    [
+                        {
+                            "Title" : "Nasionalisme Kewarganegaraan",
+                            "Text" : "Kebenaran politik dan hukum negara didapat dari partisipasi aktif rakyatnya."
+                        },
+                        {
+                            "Title" : "Nasionalisme Kenegaraan",
+                            "Text" : "merupakan nasionalisme yang tergabung dari nasionalisme kewarganegaraan dan etnis."
+                        },
+                        {
+                            "Title" : "Nasionalisme Budaya",
+                            "Text" : "Kebenaran politik dan hukum didapat dari budaya bersama dan tidak bersifat turun temurun seperti berdasarkan ras, warna kulit, maupun bahasa."
+                        },
+                        {
+                            "Title" : "Nasionalisme Agama",
+                            "Text" : "Negara mempunyai legitimasi politik dari kesamaan intisari dari agama."
+                        },
+                        {
+                            "Title" : "Nasionalisme Etnis",
+                            "Text" : "Kebenaran politik dan hukum didapat dari etnis ataupun budaya asal dari suatu masyarakat." 
+                        },
+                        {
+                            "Title" : "Nasionalisme Romantik",
+                            "Text" : "Kebenaran politik dan hukum berasal dari bentuk ekspresi suatu ras atau bangsa."
+                        }
+                    ]
+                ]
+            }
+        ]
+    },
+    "Bab_2" : {
+        "Judul" : "Integritas",
+        "Materi" : [
+            {
+                "Subbab" : "Pengertian integritas",
+                "Materi" : [
+                    "Kata integritas berasal dari bahasal latin 'Interger' yang berarti sebuah keteguhan sikap dalam mempertahankan prinsip, mutu diri, sifat, atau keadaan yang menunjukkan suatu kesatuan pribadi yang utuh.",
+                    "Dalam konteks kehidupan bernegara, integritas dikaitkan sebagai sebuah sikap menjaga kebenaran, kejujuran, serta prinsip moral bagaimanapun keadaannya"
+                ]
+            },
+            {
+                "Subbab" : "Fungsi integritas",
+                "Materi" : [
+                    "Integritas sendiri memiliki fungsi sebagai : ",
+                    [
+                        {
+                            "Title" : "Fungsi Kognitif",
+                            "Text" : "Mencakup kecerdasan moral dan wawasan diri untuk berpikir dan berperilaku sesuai dengan moral dan dampak jangka panjang terhadap suatu permasalahan."
+                        },
+                        {
+                            "Title" : "Fungsi Afektif",
+                            "Text" : "Mencakup Hati nurani dan harga diri seseorang yang diharapkan akan menular kepada individu lain."
+                        }
+                    ]
+                ]
+            },
+            {
+                "Subbab" : "Kunci Integritas",
+                "Materi" : [
+                    "Dari pengertian integritas diatas, dapat disimpulkan beberapa langkah yang termasuk dalam sikap menjaga integritas seperti : ",
+                    [
+                        {
+                            "Title" : "Menunjukkan Kejujuran (Demonstrate Honesty)",
+                            "Text" : "Berperilaku dan bertindak secara jujur."
+                        },
+                        {
+                            "Title" : "Memenuhi Komitmen (Keeping commitment)",
+                            "Text" : "Melakukan apapun yang telah diamanatkan ataupun dijanjikan."
+                        },
+                        {
+                            "Title" : "Berlaku Secara Konsisten (Behave Consistently)",
+                            "Text" : "Bertindak sesuai dengan perkataan, tanpa ada kesenjangan antar keduanya."
+                        }
+                    ]
+                ]
+            },
+            {
+                "Subbab" : "Nilai integritas dalam mencegah korupsi",
+                "Materi" : [
+                    "Dalam praktiknya, integritas dapat menjadi sebuah sikap yang dapat mencegah terjadinya perilaku korupsi, nilai-nilai tersebut antara lain : ",
+                    [
+                        {
+                            "Subbab" : "Jujur",
+                            "Text" : "Terbiasa dengan kejujuran akan membuat seseorang tidak ingin mengambil jalan pintas yang curang dan merugikan orang lain, hal ini dapat mencegah seseorang melakukan korupsi."
+                        },
+                        {
+                            "Subbab" : "Tanggung Jawab",
+                            "Text" : "Orang yang memiliki rasa tanggung jawab akan tahu bahwa setiap hal yang ia lakukan harus dipertanggungjawabkan, dan ini akan mencegah seseorang melakukan sesuatu yang menyimpang seperti korupsi."
+                        },
+                        {
+                            "Subbab" : "Disiplin",
+                            "Text" : "Orang yang menerapkan kedisiplinan dalam hidupnya akan tahu bahwa segala sesuatu yang instan akan pergi dengan instan pula, oleh karena itu orang yang disiplin tidak menyukai cara instan seperti melakukan korupsi."
+                        },
+                        {
+                            "Subbab" : "Mandiri",
+                            "Text" : "Mandiri adalah sebuah keadaan dimana seseorang dapat berdiri sendiri tanpa perlu bergantung kepada orang lain, hal ini membuat seseorang tidak ikut-ikutan dengan teman-temannya yang melakukan korupsi."
+                        },
+                        {
+                            "Subbab" : "Kerja Keras",
+                            "Text" : "Kerja keras adalah suatu sikap seseorang yang akan melakukan sesuatu dengan sebaik-baiknya tanpa ada kompromi sampai sesuatu benar-benar tidak mungkin, seseorang yang sering bekerja keras tidak akan melakukan cara instan seperti korupsi karena tahu tidak ada hasil yang bertahan lama jika tidak dilakukan dengan sungguh-sungguh,"
+                        },
+                        {
+                            "Subbab" : "Sederhana",
+                            "Text" : "Kesederhanaan sebagai sikap adalah sebuah sikap untuk tidak hidup berlebihan ataupun kekurangan, namun sekucupnya saja, sikap seperti ini dapat mencegah seseroang melakukan korupsi karena apa yang ia miliki sudah cukup dan tidak perlu merampas hak orang lain."
+                        },
+                        {
+                            "Subbab" : "Berani",
+                            "Text" : "Sikap berani dapat mencegah orang melakukan korupsi karena ia tidak akan takut dimusuhi kolega maupun atasannya karena membela hal yang benar."
+                        },
+                        {
+                            "Subbab" : "Peduli",
+                            "Text" : "Sikap peduli juga akan mencegah seseorang dari korupsi, karena ia tahu dampak jangka panjang yang akan ia dan orang lain alami jika ia ikut maupun membiarkan terjadinya korupsi."
+                        },
+                        {
+                            "Subbab" : "Adil",
+                            "Text" : "Adil berarti berada di tengah-tengah, tidak memihak satu dari yang lain, seseorang yang terbiasa dengan keadilan tidak akan senang ketika hal tersebut dicurangi seperti dilakukannya praktik korupsi."
+                        }
+                    ]
+                ]
+            }
+        ]
+    },
+    "Bab_3" : {
+        "Judul" : "Bela Negara",
+        "Materi" : [
+            {
+                "Subbab" : "Pengertian Bela Negara",
+                "Materi" : [
+                    "Bela negara merupakan konsep membela tanah air yang erat kaitannya dengan patriotisme.",
+                    "Tujuan dari bela negara sendiri adalah untuk mempertahankan keberadaan dari negara tersebut.",
+                    "Dalam indonesia sendiri, konsep bela negara dilandasi oleh Pancasila dan UUD 1945." 
+                ]
+            },
+            {
+                "Subbab" : "Unsur-Unsur Dasar Bela Negara",
+                "Materi" : [
+                    ""
+                ]
+            },
+            {
+                "Subbab" : "Dasar Hukum Dan Peraturan Tentang Bela Negara",
+                "Materi" : [
+                    "Beberapa dasar hukum dan peraturan bela negara tercantum pada :",
+                    [
+                        {
+                            "Title" : "Tap MPR No.VI Tahun 1973 tentang konsep Wawasan Nusantara dan Keamanan Nasional.",
+                            "Text" : ""
+                        },
+                        {
+                            "Title" : "Undang-Undang No.29 Tahun 1954 tentang Pokok-Pokok Perlawanan Rakyat.",
+                            "Text" : ""
+                        },
+                        {
+                            "Title" : "Undang-Undang No.20 Tahun 1982 tentang Ketentuan Pokok Hankam Negara RI. Diubah oleh Undang-Undang Nomor 1 Tahun 1988.",
+                            "Text" : ""
+                        },
+                        {
+                            "Title" : "Tap MPR No.VI Tahun 2000 tentang Pemisahan TNI dengan POLRI.",
+                            "Text" : ""
+                        },
+                        {
+                            "Title" : "Amandemen UUD '45 Pasal 30 ayat 1-5 dan pasal 27 ayat 3.",
+                            "Text" : ""
+                        },
+                        {
+                            "Title" : "Undang-Undang No.3 tahun 2002 tentang Pertahanan Negara.",
+                            "Text" : ""
+                        },
+                        {
+                            "Title" : "Undang-Undang No.56 tahun 1999 tentang Rakyat Terlatih.",
+                            "Text" : ""
+                        }
+                    ]
+                ]
+            }
+        ]
+    },
+    "Bab_4" : {
+        "Judul" : "Pilar Negara",
+        "Materi" : [
+            {
+                "Subbab" : "Macam Pilar Negara",
+                "Materi" : [
+                    "Indonesia memiliki 4 pilar negara sebagai pedoman serta penompang kehidupan berbangsa dan bernegara rakyat indonesia, keempat pilar ini antara lain : ",
+                    [
+                        {
+                            "Title" : "Pilar Pancasila",
+                            "Text" : [
+                                "Pancasila menjadi dasar negara, ideologi negara, filosofi bangsa, serta landasan dalam penyelenggaraan negara indonesia.",
+                                "Pancasila juga secara tidak langsung menjadi penyaring budaya maupun pandangan yang masuk ke indonesia, jika pandangan itu Bertentangan dengan pancasila, maka pandangan tidaklah benar bagi rakyat indonesia."
+                            ]
+                        },
+                        {
+                            "Title" : "Pilar Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+                            "Text" : [
+                                "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 merupakan landasan hukum yang berlaku di indonesia, serta menjadi dasar hukum tertinggi dari segala produk hukum",
+                                "Hal ini tercantum pada UU No. 12 Tahun 2011 tentang pembentukan peraturan Perundang-undangan.",
+                                "UUD NRI Tahun 1945 merupakan peraturan hukum yang mengikat seluruh warga negara Indonesia tanpa kecuali."
+                            ]
+                        },
+                        {
+                            "Title" : "Pilar Negara Kesatuan Republik Indonesia",
+                            "Text" : [
+                                "Negara Kesatuan Republik Indonesia (NKRI) memiliki makna bahwa Indonesia merupakan sebuah negara kesatuan yang berbentuk republik, hal ini tercantum pada Pasal 1 Ayat (1) UUD NRI Tahun 1945.",
+                                "NKRI terdiri atas daerah-daerah provinsi dan disetiap provinsi terdapat kota dan kabupaten.",
+                                "Tiap provinsi, kota, dan kabupaten memiliki pemerintahan daerah yang diatur berdasarkan undang-undang.",
+                                "Tujuan dari NKRI sendiri tertuang dalam Pembukaan UUD 1945 Alinea 4, yaitu : ",
+                                "\"ikut melaksanakan ketertiban dunia yang berdasarkan kemerdekaan, perdamaian abadi, dan keadilan sosial, melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia, serta mencerdaskan kehidupan bangsa.\""
+                            ]
+                        },
+                        {
+                            "Title" : "Pilar Bhineka Tunggal Ika",
+                            "Text" : [
+                                "Semboyan Bhineka Tunggal Ika diambil dari kitab sutasoma karangan empu tantular yang berarti : ",
+                                "\"Berbeda-beda tetapi tetap satu jua.\"",
+                                "Semboyan ini menggambarkan tentang perbedaan di Indonesia yang berisikan berbagai ras dan suku, dan walaupun berbeda-beda kita tetap satu yaitu sebagai bangsa Indonesia."
+                            ]
+                        }
+                    ]
+                ] 
+            },
+            {
+                "Subbab" : "Pilar Pancasila",
+                "Materi" : [
+                    [
+                        {
+                            "Title" : "Sejarah Lahirnya Pancasila",
+                            "Text" : [
+                                "Pancasila saat itu dirumuskan oleh Badan Penyelidik Usaha-Usaha Persiapan Kemerdekaan Indonesia (BPUPKI) yang dibentuk pada tanggal 1 Maret 1945, dalam bahasa jepang organisasi ini disebut Dokuritsu Junbi Chousakai.",
+                                "Pada awal berdirinya, BPUPKI terdiri dari 62 orang indonesia dan 7 orang perwakilan dari jepang. BPUPKI sendiri diketuai oleh dr. K.K.I Kadjiman Wedyoningrat beserta kedua wakil yaitu R.P Soeroso dan Ichibangase Yoshio.",
+                                "Dari saat dibuatnya BPUPKI, telah diadakan dua kali sidang resmi, dan satu kali sidang tidak resmi. Sidang yang pertama dilaksanakan pada tanggal 29 Mei - 1 Juni 1945 yang membahas tentang dasar negara.",
+                                "Dalam rapat BPUPKI pada tanggal 29 Mei 1945, Mr Muhammad Yamin mengemukakan pemikirannya tentang lima asas dasar negara, yaitu : ",
+                                [
+                                    "Peri kebangsaan",
+                                    "Peri Kemanusiaan",
+                                    "Peri Ketuhanan",
+                                    "Peri Kerakyatan",
+                                    "Kesejahteraan Rakyat"
+                                ],
+                                "Selanjutnya pada tanggal 31 1945 Prof. Dr.Mr.Soepomo, S.H. juga mengemukakan lima asas tentang dasar negara, yaitu : ",
+                                [
+                                    "Persatuan",
+                                    "Kekeluargaan",
+                                    "Keseimbangan Lahir dan Batin",
+                                    "Musyawarah",
+                                    "Keadilan Sosial"
+                                ],
+                                "Kemudian pada tanggal 1 Juni 1945, Ir. Soekarno juga mengemukakan pemikirannya tentang dasar negara, yaitu : ",
+                                [
+                                    "kebangsaan",
+                                    "Internasional atau Peri Kemanusiaan",
+                                    "Mufakat atau Demokrasi",
+                                    "Kesejahteraan Sosial",
+                                    "Ketuhanan yang Berkebudayaan"
+                                ],
+                                "Pada sidang pertamanya, BPUPKI belum dapat mencapat kata sepakat tentang dasar negara, oleh karena itu dibentuklah Panitia Sembilan yang bertugas untuk menuntaskan berbagai masukan tentang dasar negara.",
+                                "Panitia Sembilan diketuai oleh Ir. Soekarno dan beranggotakan : ",
+                                [
+                                    "Mohammad Hatta",
+                                    "Muhammad Yamin",
+                                    "AA. Maramis",
+                                    "Soebarjo",
+                                    "KH. Wachid Hasjim",
+                                    "KH. Kahar Muzakar",
+                                    "H. Agoes Salim",
+                                    "Abikusno Tjokrosoejoso"
+                                ],
+                                "Pada tanggal 22 Juni 1945, Panitia Sembilan mengadakan rapat di kediaman Ir. Soekarno di Jalan Pegangsaan Timur No. 56, Jakarta"
+                            ]                            
+                        }
+                    ]
+                ]
+            }
+        ]
+    }
+}

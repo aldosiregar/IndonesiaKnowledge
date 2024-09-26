@@ -1,0 +1,47 @@
+body{
+    margin: 0px;
+    overflow-x: hidden;
+}
+
+.navbar{
+    background-color: black;
+    overflow: hidden;
+    width: 100%;
+    padding: 0 0 !important;
+    position: fixed !important;
+    z-index: 1;
+    top: 0;
+}
+
+.navbar a{
+    float: left;
+    color: white;
+    display: block;
+    padding: 30px 15px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.navbar .split{
+    float: right;
+}
+
+.navbar a:hover{
+    background-color: white;
+    color: black;
+}
+
+.navbar a:active {
+    color: white;
+}
+
+.footer-style{
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+}
+
+.main-content{
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
