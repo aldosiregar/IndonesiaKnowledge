@@ -5,7 +5,6 @@ body{
 
 .navbar{
     background-color: black;
-    overflow: hidden;
     width: 100%;
     padding: 0 0 !important;
     position: fixed !important;
@@ -24,6 +23,7 @@ body{
 
 .navbar .split{
     float: right;
+    right: 0;
 }
 
 .navbar a:hover{
@@ -44,4 +44,102 @@ body{
 .main-content{
     margin-top: 80px;
     margin-bottom: 30px;
+}
+
+.dropdown{
+    position: inherit;
+    display: block;
+    float: left;
+}
+
+.dropBtn{
+    background-color: white;
+    color: black;
+    padding: 30px 15px;
+    border: none;
+}
+
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a{
+    color: black;
+    width: 100%;
+    padding: 16px 10px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover{
+    background-color: grey;
+}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+
+.dropdown .dropBtn {
+    background-color: beige;
+}
+
+.burgerBtn{
+    background-color: white;
+    color: black;
+    padding: 30px 15px;
+    border: none;
+}
+
+.burger-content{
+    position: fixed;
+    height: 100%;
+    width: 0;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    overflow-x: hidden;
+    padding-top: 60px;
+    transition: 0.5s;
+    background-color: #111;
+}
+
+.burger-content a, .dropdown-content{
+    transition: 0.3s;
+    width: 100%;
+}
+
+.burger-content .dropdown-content{
+    position: inherit;
+    transition: height 2s;
+}
+
+#Main{
+    transition: margin-right .5s;
+    padding: 20px;
+}
+
+.burger-content .dropdown-content a{
+    background-color: white;
+}
+
+.burger-content .dropBtn{
+    padding: 30px 110px;
+}
+
+.burger-content a:hover{
+    background-color: #f1f1f1;
+}
+
+@media screen and (max-height: 720px){
+    .burger-content{
+        padding-top: 15px;
+    }
+    .burger-content a {
+        font-size: 18px;
+    }
 }

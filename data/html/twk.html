@@ -11,39 +11,42 @@
     <!-- Navbar Section -->
     <section id="navbarSection"></section>
 
-    <!-- Main Section -->
-    <section>
-        <div class="container main-content">
-            <div class="pt-3">
-                <h1 class="text-center">Pilih Materi</h1>
-                <div class="row justify-content-center text-center pt-4 p-md-4 gap-5 gap-md-4">
-                    <div class="col-5">
-                        <button onclick="fetchData(1)">Bab 1</button>
-                    </div>
-                    <div class="col-5">
-                        <button onclick="fetchData(2)">Bab 2</button>
-                    </div>
-                    <div class="col-5">
-                        <button onclick="fetchData(3)">Bab 3</button>
-                    </div>
-                    <div class="col-5">
-                        <button onclick="fetchData(4)">Bab 4</button>
+    <div id="Main">
+        <!-- Main Section -->
+        <section>
+            <div class="container main-content">
+                <div class="pt-3">
+                    <h1 class="text-center">Pilih Materi</h1>
+                    <div class="row justify-content-center text-center pt-4 p-md-4 gap-5 gap-md-4">
+                        <div class="col-5">
+                            <button onclick="fetchData(1)">Bab 1</button>
+                        </div>
+                        <div class="col-5">
+                            <button onclick="fetchData(2)">Bab 2</button>
+                        </div>
+                        <div class="col-5">
+                            <button onclick="fetchData(3)">Bab 3</button>
+                        </div>
+                        <div class="col-5">
+                            <button onclick="fetchData(4)">Bab 4</button>
+                        </div>
                     </div>
                 </div>
+                <div id="material" class="row justify-content-center gap-3 text-center text-md-start"></div>
             </div>
-            <div id="material" class="row justify-content-center gap-3 text-center text-md-start"></div>
-        </div>
-    </section>
+        </section>
 
-    <!-- Footer Section -->
-    <section id="footerSection">
-        
-    </section>
+        <!-- Footer Section -->
+        <section id="footerSection">
+            
+        </section>
+    </div>
 
     <script src="/js/template/navbar.js"></script>
     <script src="/js/template/card.js"></script>
     <script src="/js/template/grid.js"></script>
     <script src="/js/template/footer.js"></script>
+    <script src="/js/animation/sidenav.js"></script>
     <script src="/js/connection/material.js"></script>
     <script src="/js/controller/TWKMaterial.js"></script>
     <script src="/js/template/list.js"></script>
