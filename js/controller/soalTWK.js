@@ -1,0 +1,7 @@
+function soalTWK(){
+    
+}
+
+function rewrite(){
+    
+}

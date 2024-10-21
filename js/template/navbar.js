@@ -7,7 +7,7 @@ const navbarTemplate =
             <div class="dropdown">
                 <button class="dropBtn">Soal</button>
                 <div class="dropdown-content">
-                    <a href="#">twk</a>
+                    <a href="/data/html/soalTwk.html">twk</a>
                     <a href="#">tiu</a>
                     <a href="#">top</a>
                 </div>
@@ -23,7 +23,7 @@ const navbarTemplate =
                 <div class="dropdown">
                     <button class="dropBtn" onclick="burgerDropBtn()">Soal</button>
                     <div class="dropdown-content">
-                        <a href="#">twk</a>
+                        <a href="/data/html/soalTwk.html">twk</a>
                         <a href="#">tiu</a>
                         <a href="#">top</a>
                     </div>

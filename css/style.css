@@ -135,6 +135,20 @@ body{
     background-color: #f1f1f1;
 }
 
+#soalContent{
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+
+.exam-content{
+    min-width: 200px;
+    min-height: 300px;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 50px;
+    border-style: solid;
+}
+
 @media screen and (max-height: 720px){
     .burger-content{
         padding-top: 15px;
@@ -142,4 +156,14 @@ body{
     .burger-content a {
         font-size: 18px;
     }
+}
+
+.appearing-animation{
+    transition: all 2s;
+    max-height: 100%;
+}
+
+.appearing-animation .pre-animation{
+    max-height: 0;
+    opacity: 0;
 }
